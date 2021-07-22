@@ -58,7 +58,7 @@ class Person {
     return `${this.name}, ${this.age}`;
   }
 }
-console.log(Person);
+
 /*
   TASK 2
     - Write a Car class whose constructor initializes `model` and `milesPerGallon` from arguments.
